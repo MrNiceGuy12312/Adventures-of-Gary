@@ -111,10 +111,10 @@ MonoBehaviour:
     y: 30
     width: 1707
     height: 828
-  m_MinSize: {x: 685, y: 494}
+  m_MinSize: {x: 885, y: 494}
   m_MaxSize: {x: 14006, y: 14044}
   vertical: 0
-  controlID: 49
+  controlID: 58
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1205
     height: 828
-  m_MinSize: {x: 406, y: 494}
+  m_MinSize: {x: 606, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 50
+  controlID: 59
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 0
     width: 1205
     height: 549
-  m_MinSize: {x: 406, y: 222}
-  m_MaxSize: {x: 8006, y: 4022}
+  m_MinSize: {x: 606, y: 222}
+  m_MaxSize: {x: 6054, y: 4022}
   vertical: 0
-  controlID: 51
+  controlID: 60
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,16 +210,16 @@ MonoBehaviour:
     y: 0
     width: 971
     height: 549
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
-  m_ActualView: {fileID: 16}
+  m_MinSize: {x: 404, y: 122}
+  m_MaxSize: {x: 2052, y: 2070}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 16}
   - {fileID: 14}
   - {fileID: 17}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 3
+  m_Selected: 3
+  m_LastSelected: 2
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -363,10 +363,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -341.33334
-    m_HBaseRangeMax: 341.33334
-    m_VBaseRangeMin: -256
-    m_VBaseRangeMax: 256
+    m_HBaseRangeMin: -512
+    m_HBaseRangeMax: 512
+    m_VBaseRangeMin: -384
+    m_VBaseRangeMax: 384
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -386,7 +386,7 @@ MonoBehaviour:
       y: 17
       width: 969
       height: 513
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 0.66796875, y: 0.66796875}
     m_Translation: {x: 484.5, y: 256.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -394,15 +394,15 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -484.5
-      y: -256.5
-      width: 969
-      height: 513
+      x: -725.3333
+      y: -384
+      width: 1450.6666
+      height: 768
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 0.66796875
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1453.5, y: 795}
+  m_LastWindowPixelSize: {x: 969, y: 530}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -438,7 +438,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 06d4ffff
+      m_ExpandedIDs: 666fffffce7bffff78c0ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -498,9 +498,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 324.96802, y: 8.189114, z: 291.2023}
+    m_Target: {x: 399.21283, y: -47.285614, z: 279.3076}
     speed: 2
-    m_Value: {x: 324.96802, y: 8.189114, z: 291.2023}
+    m_Value: {x: 399.21283, y: -47.285614, z: 279.3076}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -529,13 +529,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.28335822, y: -0.014779094, z: 0.0041688634, w: 0.9589537}
+    m_Target: {x: 0.17806782, y: 0.7744823, z: -0.2492535, w: 0.55360657}
     speed: 2
-    m_Value: {x: 0.2819026, y: -0.014784447, z: 0.0041464367, w: 0.95932025}
+    m_Value: {x: 0.1775036, y: 0.77267164, z: -0.24611533, w: 0.55758244}
   m_Size:
-    m_Target: 26.500856
+    m_Target: 121.54576
     speed: 2
-    m_Value: 27.749588
+    m_Value: -121.54576
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -664,35 +664,35 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Music
+    - Assets/Meshes/Rocks Pack - Freebies/Rocks 01/Rock 05
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Music
+  - Assets/Meshes/Rocks Pack - Freebies/Rocks 01/Rock 05
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jenki\Documents\GitHub\Adventures-of-Gary\Adventures
     Of Gary
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 204}
-    m_SelectedIDs: 2a560000
-    m_LastClickedID: 22058
-    m_ExpandedIDs: 000000009c390000f6390000143a0000783a00003e3b0000583b00003c3e0000a83e0000403f0000443f00005c3f0000823f0000cc3f00008c4000006c4300006e4300007043000072430000e0450000e44b0000104c0000324c000000ca9a3b
+    scrollPos: {x: 0, y: 513.76965}
+    m_SelectedIDs: 26420000
+    m_LastClickedID: 16934
+    m_ExpandedIDs: 00000000c23d0000143e00001a3e0000323e0000863e00003a3f0000523f00006a3f0000a4410000ec410000f6410000264200005a420000ee420000f2420000024300002443000052430000744300007843000090430000f64300003e47000040470000424700004447000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scripts
+      m_OriginalName: Scripts
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 16178
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -706,7 +706,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009c390000f6390000143a0000783a00003e3b0000583b00006c3b0000523d00003c3e0000a83e0000403f0000443f00005c3f0000823f0000cc3f00008c4000006c4300006e4300007043000072430000
+    m_ExpandedIDs: 00000000c23d0000143e0000323e0000863e00003a3f0000523f0000ec4100005a420000ee420000f24200000243000024430000524300007843000090430000f64300003e470000404700004247000044470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
